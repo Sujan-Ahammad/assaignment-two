@@ -1,0 +1,392 @@
+/* <-----------------------------------
+------Navbar Styles Start Here------
+------------------------------------> */
+
+.Nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-left {
+    margin-top: 50px;
+    margin-left: 200px;
+
+}
+
+.left-title {
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.nav-right {
+    display: flex;
+    margin-top: 63px;
+    margin-right: 140px;
+}
+
+.link ul li {
+    display: inline-block;
+    margin-left: 54px;
+
+}
+
+.link ul li a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+    color: #424242;
+
+}
+
+/* <-----------------------------------
+------Navbar Styles End Here------
+------------------------------------> */
+
+
+/* <-----------------------------------
+---------Header Styles start Here------
+------------------------------------> */
+
+#Header-section {
+    margin-left: 220px;
+
+}
+
+.header-container {
+    width: 862px;
+    height: 225px;
+    margin-top: 72px;
+    text-align: center;
+
+
+}
+
+.header-title {
+
+    font-weight: 700;
+    font-size: 54px;
+    font-style: normal;
+    margin-bottom: 10px;
+    color: #131313;
+}
+
+.header-lorem {
+    font-weight: 400;
+    font-size: 16px;
+    height: 52px;
+}
+
+.header-btn {
+    width: 150px;
+    height: 44px;
+    background: #FF900E;
+    border-radius: 8px;
+    margin-bottom: 50px;
+
+}
+
+.header-btn a {
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+/* <-----------------------------------
+---------Header Styles End Here--------
+------------------------------------> */
+
+
+
+/* <-----------------------------------
+------Banner Styles Start Here------
+------------------------------------> */
+
+.banner-container {
+    margin-top: 146px;
+
+}
+
+.ban-img {
+    align-items: center;
+}
+
+.ban-img img {
+
+    width: 940px;
+    height: 400px;
+    margin-left: 240px;
+}
+
+
+
+
+
+
+/* <-----------------------------------
+------Banner Styles End Here------
+------------------------------------> */
+
+
+/* <-----------------------------------
+------Features Styles Start Here------
+------------------------------------> */
+
+
+.features-container {
+    margin-left: 260px;
+    display: flex;
+    width: 1050px;
+    /* height: 350px; */
+    margin-top: 50px;
+
+
+}
+
+.features-left {
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+
+}
+
+.features-img img {
+    width: 250px;
+    height: 165px;
+}
+
+.features-right {
+    margin-left: 50px;
+
+
+    margin-top: 50px;
+
+}
+
+.features-title {
+    color: #FF900E;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.ql {
+    color: #727272;
+}
+
+.oo {
+    color: #131313;
+}
+
+.features-lorem {
+    color: #727272;
+}
+
+
+
+
+
+
+/* <-----------------------------------
+------Features Styles End Here------
+------------------------------------> */
+
+
+
+
+
+
+/* <-----------------------------------
+------Love & Enjoy Styles Start Here------
+------------------------------------> */
+
+.love-enjoy-container {
+    width: 940px;
+    height: 800px;
+    margin-left: 240px;
+    margin-top: 50px;
+    display: flex;
+}
+
+.love-enjoy-title {
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+
+.love-enjoy-right {
+    margin-left: 15px;
+    width: 700px;
+}
+
+.love-enjoy-right-img {
+    background-image: url("/images/architect.png");
+    background-position: bottom left;
+
+}
+
+
+.version-title {
+    margin-bottom: 20px;
+
+}
+
+
+.love-enjoy-lorem {
+    font-weight: 400;
+    font-size: 14px;
+    color: #727272;
+}
+
+
+.love-btn {
+    margin-top: 647px;
+    /* margin-right: 400px; */
+    background: #FF900E;
+    border-radius: 8px;
+    width: 300px;
+    height: 150px;
+    border: none;
+}
+
+.love-btn a {
+    font-weight: 600;
+    font-size: 35px;
+    font-style: normal;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+
+
+/* <-----------------------------------
+------Love & Enjoy Styles End Here------
+------------------------------------> */
+
+
+
+/* <-----------------------------------
+------Some Facts Styles End Here------
+------------------------------------> */
+
+
+.facts-container {
+    margin-top: 80px;
+    margin-left: 240px;
+}
+
+.facts-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313;
+}
+
+
+
+/* <-----------------------------------
+------Some Facts Styles End Here------
+------------------------------------> */
+.border {
+    border: 2px solid green;
+}
+
+/* <-----------------------------------
+------Icon Styles Start Here------
+------------------------------------> */
+
+.icon-container{
+    margin-top: 40px;
+    display: flex;
+    /* justify-content: space-between; */
+    margin-left: 260px;
+}
+
+.icon {
+    text-align: center;
+    padding: 10px;
+    margin-left: 40px;
+    width: 150px;
+    height: 120px;
+
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+
+}
+
+.icon img {
+    width: 35.22px;
+    height: 35.22px;
+    margin-top: 0px;
+}
+
+.icon-number {
+    font-weight: 300;
+    font-size: 15px;
+
+}
+
+
+
+
+/* <-----------------------------------
+------Icon Facts Styles End Here------
+------------------------------------> */
+
+
+
+
+
+
+/* <-----------------------------------
+------Sponsor Facts Styles End Here------
+------------------------------------> */
+
+
+
+.sponsor-container{
+    text-align: center;
+    margin-top: 100px;
+}
+.sponsor-title{
+    font-weight: 700;
+    font-size: 35px;
+    color: #131313;
+}
+
+
+/* <-----------------------------------
+------Sponsor Facts Styles End Here------
+------------------------------------> */
+
+
+
+.logo-con{
+    margin-top: 60px;
+    margin-left: 200px;
+    display: flex;
+}
+.logo-con img{
+    width: 80px;
+    height: 30px;
+    margin-left: 80px;
+    color: gray;
+}
+
+
+
+/* <-----------------------------------
+------Footer Facts Styles Start Here------
+------------------------------------> */
+
+.footer-container{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+/* <-----------------------------------
+------Footer Facts Styles End Here------
+------------------------------------> */
