@@ -184,10 +184,6 @@
 }
 
 
-
-
-
-
 /* <-----------------------------------
 ------Features Styles End Here------
 ------------------------------------> */
@@ -209,6 +205,10 @@
     display: flex;
 }
 
+.love-enjoy-left{
+    width: 40%;
+}
+
 .love-enjoy-title {
     font-weight: 700;
     font-size: 25px;
@@ -218,16 +218,10 @@
 
 .love-enjoy-right {
     margin-left: 15px;
-    width: 100%;
-    background-image: url("/images/architect.png");
+    width: 60%;
+    background-image: url("../images/architect.png");
     background-position: bottom left;
 }
-
-.love-enjoy-right-img {
-
-
-}
-
 
 .version-title {
     margin-bottom: 20px;
@@ -356,7 +350,6 @@
     font-size: 35px;
     color: #131313;
 }
-
 
 /* <-----------------------------------
 ------Sponsor Facts Styles End Here------
