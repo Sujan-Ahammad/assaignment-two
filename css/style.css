@@ -48,13 +48,11 @@
 ------------------------------------> */
 
 #Header-section {
-    margin-left: 220px;
+    margin-left: 170px;
 
 }
 
 .header-container {
-    width: 862px;
-    height: 225px;
     margin-top: 72px;
     text-align: center;
 
@@ -73,7 +71,7 @@
 .header-lorem {
     font-weight: 400;
     font-size: 16px;
-    height: 52px;
+    /* height: 52px; */
 }
 
 .header-btn {
@@ -104,7 +102,7 @@
 ------------------------------------> */
 
 .banner-container {
-    margin-top: 146px;
+    margin-top: 86px;
 
 }
 
@@ -183,6 +181,21 @@
     color: #727272;
 }
 
+.featured-btn {
+    width: 150px;
+    height: 44px;
+    background: #FF900E;
+    border-radius: 8px;
+    margin-bottom: 50px;
+}
+
+.featured-btn a {
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 
 /* <-----------------------------------
 ------Features Styles End Here------
@@ -205,7 +218,7 @@
     display: flex;
 }
 
-.love-enjoy-left{
+.love-enjoy-left {
     width: 40%;
 }
 
@@ -292,7 +305,7 @@
 ------Icon Styles Start Here------
 ------------------------------------> */
 
-.icon-container{
+.icon-container {
     margin-top: 40px;
     display: flex;
     /* justify-content: space-between; */
@@ -341,11 +354,12 @@
 
 
 
-.sponsor-container{
+.sponsor-container {
     text-align: center;
     margin-top: 100px;
 }
-.sponsor-title{
+
+.sponsor-title {
     font-weight: 700;
     font-size: 35px;
     color: #131313;
@@ -357,12 +371,13 @@
 
 
 
-.logo-con{
+.logo-con {
     margin-top: 60px;
     margin-left: 200px;
     display: flex;
 }
-.logo-con img{
+
+.logo-con img {
     width: 80px;
     height: 30px;
     margin-left: 80px;
@@ -375,9 +390,11 @@
 ------Footer Facts Styles Start Here------
 ------------------------------------> */
 
-.footer-container{
+.footer-container {
     text-align: center;
     margin-top: 100px;
+    background: #FFF4E7;
+    border-radius: 8px;
 }
 
 
