@@ -71,7 +71,6 @@
 .header-lorem {
     font-weight: 400;
     font-size: 16px;
-    /* height: 52px; */
 }
 
 .header-btn {
@@ -153,6 +152,7 @@
 .features-img img {
     width: 250px;
     height: 165px;
+    
 }
 
 .features-right {
@@ -251,7 +251,7 @@
 
 .love-btn {
     margin-top: 647px;
-    /* margin-right: 400px; */
+
     background: #FF900E;
     border-radius: 8px;
     width: 300px;
@@ -308,7 +308,6 @@
 .icon-container {
     margin-top: 40px;
     display: flex;
-    /* justify-content: space-between; */
     margin-left: 260px;
 }
 
