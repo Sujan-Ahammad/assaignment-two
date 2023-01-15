@@ -218,12 +218,13 @@
 
 .love-enjoy-right {
     margin-left: 15px;
-    width: 700px;
+    width: 100%;
+    background-image: url("/images/architect.png");
+    background-position: bottom left;
 }
 
 .love-enjoy-right-img {
-    background-image: url("/images/architect.png");
-    background-position: bottom left;
+
 
 }
 
